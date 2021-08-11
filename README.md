@@ -13,8 +13,6 @@ I am a Java developer, mainly interested in Machine Learning and Web Development
 
 <!-- - 👨‍💻 All of my projects are available at [Coming Soon...](Coming Soon...) -->
 
-- 🤝 I’m looking for help with **open-source projects.**
-
 - ⚡ Fun fact **I am a serious person with what is required, but in the rest, I am quite funny.**
 
 
