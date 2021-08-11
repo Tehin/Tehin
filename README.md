@@ -1,5 +1,5 @@
 [Discord]:https://discordapp.com/users/421785204957642754
-<h1 align="center">Hi 👋, I'm Tehin</h1>
+<h1 align="center">Hi, I'm Tehin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 **Since you are here, you probably want to know more.**
 
@@ -54,4 +54,4 @@ I am a Java developer, mainly interested in Machine Learning and Web Development
   
 ### Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cohinz&" alt="cohinz" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cohinz&show_icons=true&locale=en" alt="cohinz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tehin&show_icons=true&locale=en&count_private=true" alt="tehin" /></p>
