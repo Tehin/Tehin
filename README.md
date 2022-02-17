@@ -53,4 +53,6 @@ I am a Java developer, mainly interested in Machine Learning and Web Development
 ### Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehin&" alt="tehin" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tehin&show_icons=true&locale=en&count_private=true" alt="tehin" /></p>
+
+(WakaTime statistics are bugged)
 <p><img alig="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tehin&v=2&range=last_7_days&custom_title=This week:" alt="tehin"/></p>
