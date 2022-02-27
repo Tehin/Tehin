@@ -5,8 +5,8 @@
 
 I am a Java developer, mainly interested in Machine Learning and Web Development so I'm doing my best to learn about it.
 #
-- 📄 Currently working at [@MagicMoon-Studios](https://github.com/MagicMoon-Studios)
-
+- 📄 Currently working at [MagicMoon Studios](https://github.com/MagicMoon-Studios) & [@Aurealis Studios LLC](https://github.com/AurealisStudiosLLC)
+ 
 - 🌱 I’m currently learning **Machine Learning theory and ReactJS**
 
 - 👯 I’m looking to collaborate on **other open-source projects.**
