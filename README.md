@@ -40,7 +40,7 @@ I am a Java developer, mainly interested in Machine Learning and Web Development
   <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Java-E32D2D?style=for-the-badge&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-E32D2D?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
