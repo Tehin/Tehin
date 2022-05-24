@@ -7,7 +7,7 @@ I am a Java developer, mainly interested in Machine Learning and Web Development
 #
 - 📄 Currently working at [@MagicMoon Studios](https://github.com/MagicMoon-Studios) & [@Aurealis Studios LLC](https://github.com/AurealisStudiosLLC)
  
-- 🌱 I’m currently learning **Machine Learning theory and ReactJS**
+- 🌱 I’m currently learning **Machine Learning theory**
 
 - 👯 I’m looking to collaborate on **other open-source projects.**
 
@@ -42,6 +42,7 @@ I am a Java developer, mainly interested in Machine Learning and Web Development
 <p>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
