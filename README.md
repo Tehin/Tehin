@@ -1,5 +1,5 @@
 [Discord]:https://discordapp.com/users/421785204957642754
-<h1 align="center">Hi, I'm Tehin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Tehin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/></h1>
 
 **Since you are here, you probably want to know more.**
 
